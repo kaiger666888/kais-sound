@@ -1,7 +1,7 @@
 ---
 name: kais-sound
 version: 1.0.0
-description: "视频音效选材与下载工具。从 Freesound 搜索真实音效，结合下载量、评分人数、上传者描述与许可证为画面挑选合适声音，支持 CC0/BY 许可证过滤、试听链接、并发下载。触发词：音效、sound effect、SFX、freesound、转场音效、whoosh、点击音、脚步声、环境音、下载音效、找音效、音效素材、拟音、foley、碰撞声、开关声、提示音、按钮音、卡片音效、音效库。只管音效（SFX）；背景音乐用 kais-bgm，语音合成用 kais-TTS，人声/歌声用 kais-vocal。"
+description: "视频音效选材与下载工具。从 Freesound 搜索真实音效，结合下载量、评分人数、上传者描述与许可证为画面挑选合适声音，支持 CC0/BY 过滤、试听链接、并发下载。当用户需要"音效"、"sound effect"、"SFX"、"freesound"、"转场音效"、"whoosh"、"点击音"、"脚步声"、"环境音"、"拟音 foley"、"碰撞声"、"提示音"、"音效素材"、"下载音效"时触发。只管音效（SFX）；背景音乐用 kais-bgm，语音合成用 kais-TTS，人声/歌声用 kais-vocal。"
 ---
 
 # kais-sound — Freesound 音效选材与下载
